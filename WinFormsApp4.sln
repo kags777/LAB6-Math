@@ -1,9 +1,15 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36603.0 d17.14
+VisualStudioVersion = 17.14.36603.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsApp4", "WinFormsApp4\WinFormsApp4.csproj", "{F220660D-0244-4C70-A4B1-4A382139511C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumericalDerrivativeAccuracy", "NumericalDerrivativeAccuracy\NumericalDerrivativeAccuracy.csproj", "{B97BEE15-8336-464E-A723-41973BE9505A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SplinesWithDeriv", "SplinesWithDeriv\SplinesWithDeriv.csproj", "{1A5E3734-708B-40C5-AEB0-462B285D0474}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterpolationPolynom", "InterpolationPolynom\InterpolationPolynom.csproj", "{15B064BD-EE58-4F68-ACCF-442E4148B902}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +21,18 @@ Global
 		{F220660D-0244-4C70-A4B1-4A382139511C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F220660D-0244-4C70-A4B1-4A382139511C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F220660D-0244-4C70-A4B1-4A382139511C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B97BEE15-8336-464E-A723-41973BE9505A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B97BEE15-8336-464E-A723-41973BE9505A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B97BEE15-8336-464E-A723-41973BE9505A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B97BEE15-8336-464E-A723-41973BE9505A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A5E3734-708B-40C5-AEB0-462B285D0474}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A5E3734-708B-40C5-AEB0-462B285D0474}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A5E3734-708B-40C5-AEB0-462B285D0474}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A5E3734-708B-40C5-AEB0-462B285D0474}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15B064BD-EE58-4F68-ACCF-442E4148B902}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15B064BD-EE58-4F68-ACCF-442E4148B902}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15B064BD-EE58-4F68-ACCF-442E4148B902}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15B064BD-EE58-4F68-ACCF-442E4148B902}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
